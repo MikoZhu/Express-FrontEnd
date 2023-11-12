@@ -1,7 +1,12 @@
+import { AvocadoSales } from "./components/AvocadoSales";
+import { useState, useEffect } from "react";
+import avocado from "../src/assets/avocado2.png";
+import { Hero } from "./components/Hero";
 function App() {
   return (
     <>
-      <h1>Start here</h1>
+      <Hero />
+      <AvocadoSales />
     </>
   );
 }
