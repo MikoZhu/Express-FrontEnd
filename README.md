@@ -5,4 +5,4 @@
 This website serves as a platform to showcase the Avocado Sales API.
 
 ## View it
-[View it]: https://avocado-sales-express.netlify.app/
+https://avocado-sales-express.netlify.app/
